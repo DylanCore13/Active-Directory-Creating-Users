@@ -70,7 +70,11 @@ Next we will create a new file and paste the contents of this Script:
 
 
 
+After you paste it, make sure you create a new file, save it , anme it "create users"
 
+
+
+Finally run and it will create a bunch of users.
 
 
 
