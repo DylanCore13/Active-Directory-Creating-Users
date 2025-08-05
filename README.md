@@ -42,7 +42,7 @@
 
 
 
-To start you'll need to log in to client-1 as mydomain.com\jane_admin, once you're logged in you will open system properties and then click “Remote Desktop”
+To start you'll need to log in to client-1 as mydomain.com\jane_admin, once you're logged in you will open system properties and then click “Remote Desktop”. When you select to add users notice how where it says "From this location:" it'll say mydomain.com, cause the computer is able to access the context of mydomain.com. You'll enter Domain Users, meaning all user accounts by default a member of this group.
 
 
 <img width="970" height="614" alt="image" src="https://github.com/user-attachments/assets/88ccaf34-b088-4c23-b95a-3e95cd58e14d" />
