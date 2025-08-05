@@ -36,6 +36,13 @@
 
 
 
+<b> </b>
+
+
+
+
+To start you'll need to log in to client-1 as mydomain.com\jane_admin, once you're logged in you will open system properties and then click “Remote Desktop”
+
 
 <img width="970" height="614" alt="image" src="https://github.com/user-attachments/assets/88ccaf34-b088-4c23-b95a-3e95cd58e14d" />
 
