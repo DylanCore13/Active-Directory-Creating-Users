@@ -50,6 +50,10 @@ To start you'll need to log in to client-1 as mydomain.com\jane_admin, once you'
 
 
 
+Now we will create a bunch of additional users and attempt to log into client-1 with one of the users. By logging into DC-1 as Domain Admin and open up powershell ISE as a ADMIN!
+
+
+
 <img width="1145" height="568" alt="image" src="https://github.com/user-attachments/assets/08676f11-6093-419a-9fb6-dc1040a3687b" />
 
 
