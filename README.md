@@ -91,6 +91,13 @@ Finally run and it will create a bunch of users.
 
 
 
+Now attempt to log in with one of the user names that were created from the script, whatever you use, remember to log in as:
+
+mydomain.com\(username)
+
+password: Password1
+
+
 
 <img width="398" height="485" alt="image" src="https://github.com/user-attachments/assets/131bad26-729e-4710-8296-e629b96cc60f" />
 
